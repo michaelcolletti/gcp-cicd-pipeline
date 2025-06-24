@@ -139,3 +139,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Service Account Keys - NEVER commit these!
+service-account-key.json
+*service-account*.json
+*.json.key
