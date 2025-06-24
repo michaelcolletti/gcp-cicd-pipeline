@@ -30,7 +30,7 @@ This script provides a step-by-step walkthrough for demonstrating the GCP CI/CD 
 
 **Show:** Repository structure in file explorer
 ```bash
-tree -L 2 .
+tree 
 ```
 
 ### Step 1: Environment Setup (3 minutes)
