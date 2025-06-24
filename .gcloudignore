@@ -4,3 +4,8 @@
 
 node_modules
 #!include:.gitignore
+
+# Service Account Keys - Prevent uploading to Cloud Build
+service-account-key.json
+*service-account*.json
+*.json.key
